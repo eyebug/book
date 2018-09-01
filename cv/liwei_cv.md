@@ -63,13 +63,13 @@
 
 
 
-##技能清单
+## 技能清单
 
 * 语言：&nbsp;**PHP** 熟练掌握PHP，也能使用其它语言（JavaScript, HTML/CSS, Java, BASH, Python等)开发一些简单页面和工具
 * 框架：&nbsp;**Laravel/Lumen** 熟练掌握Laravel和Lumen框架, 对Lumen/Yaf/Yii等其它框架也略有了解
 * 数据库：&nbsp;**MySQL/MongoDB/Redis/Memcache** 熟练掌握MySQL的库表设计，查询优化；熟悉MongoDB，Redis以及Memcache的使用
 * 基础服务：&nbsp;**LNAMP/CDN/负载均衡/DNS/阿里云/AWS** 熟悉LNAMP, CDN, DNS，负载均衡的搭建、调试与配置
-* 其他：&nbsp;**Zookeeper、RabbitMQ、Composer、Restful**
+* 其他：&nbsp;**Zookeeper、RabbitMQ、Composer、Restful、浏览器插件**
 * 版本管理：&nbsp;**Git/SVN**
 * 项目管理：需求沟通，开发计划管理，指导新人和实习生等
 
