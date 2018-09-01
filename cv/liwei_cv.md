@@ -1,4 +1,4 @@
-##个人信息
+## 个人信息
 
 * 李伟/男/1987
 * Email: franklee65535@gmail.com
@@ -7,13 +7,13 @@
 * 期望职位: PHP高级开发工程师、PHP架构师
 
 
-##工作经历
+## 工作经历
 
 * 2017.08 - 至今 &nbsp;&nbsp; Itearoa Ltd（新西兰华人创业公司, [www.itearoa.co.nz](http://www.itearoa.co.nz)） &nbsp;&nbsp; PHP高级工程师
 * 2015.9 - 2017.7 &nbsp;&nbsp; Fishpond Ltd（新西兰本地电商公司, [www.fishpond.co.nz](https://www.fishpond.co.nz)） &nbsp;&nbsp; 高级开发工程师
 * 2012.07 - 2015.7 &nbsp;&nbsp; 百度在线网络科技有限公司 &nbsp;&nbsp; 高级研发工程师 
 
-##部分项目经历
+## 部分项目经历
 
 ### 2017.8-至今 Ascott酒店服务系统（Itearoa）
 * 简介：Ascott酒店管理系统是一款提供给酒店客人、员工，提高服务效率的系统，由APP端，后端API，后台管理系统组成。
