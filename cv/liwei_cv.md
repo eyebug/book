@@ -30,7 +30,7 @@
 	* 推进团队使用composer包管理引用第三方库，提高代码可读性和复用率。
 
 ### 2016.5-2016.9 用户反馈系统（Fishpond）
-* 项目简介：为提高销量，Fishpond会将部分商品通过公司帐号自动上架到Ebay和Amazon增加曝光度，本系统通过调用Ebay API定期自动拉取反馈信息并将其整合到内部反馈系统统一处理。
+* 项目简介：为提高销量，Fishpond会将部分商品通过公司帐号自动上架到Ebay和Amazon增加曝光度，本系统通过调用Ebay API定期自动拉取反馈信息并将其整合到内部反馈系统。
 * 职责：后台开发工程师
 	* 调用Ebay API定期拉取用户的反馈，退货，退款请求并将其合并到Fishpond自身的用户反馈系统数据库，修改反馈系统的处理模块使其能够兼容。使员工由原来需要登录多个平台处理简化为在内部平台统一处理。
 	* 添加自动处理规则，针对符合条件的反馈自动处理并将处理结果推送至Ebay，大大减轻了管理人员的工作量。
@@ -59,7 +59,7 @@
 * 语言：&nbsp;**PHP** 熟练掌握PHP，也能使用其它语言（JavaScript, HTML/CSS, Java, BASH, Python等)开发一些简单页面和工具
 * 框架：&nbsp;**Laravel/Lumen** 熟练掌握Laravel和Lumen框架, 对ZendFramework/Yaf/Yii等其它MVC框架也略有了解
 * 数据库：&nbsp;**MySQL/MongoDB/Redis/Memcache** 熟练掌握MySQL的库表设计，查询优化；熟悉MongoDB，Redis以及Memcache的使用
-* 基础服务：&nbsp;**LNAMP/CDN/负载均衡/DNS/阿里云/AWS** 熟悉LNAMP, CDN, DNS，负载均衡的搭建、调试与配置
+* 基础服务：&nbsp;**LNAMP/CDN/负载均衡/DNS/阿里云/AWS** 熟悉LNAMP、 CDN、 DNS和负载均衡的搭建、调试与配置
 * 其他：&nbsp;**Zookeeper、Composer、Restful、浏览器插件**
 * 版本管理：&nbsp;**Git/SVN**
 * 项目管理：需求沟通，开发计划管理，指导新人和实习生等
